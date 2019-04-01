@@ -5,8 +5,7 @@ Here you can see my work some of what is, unfortunately, not in available on the
 Jungle Prize
 A gaming app where the users compete to end up with the highest score in each game to win prizes.
 The app uses Android SDK to display the UI and handle user interaction, and uses Unity for the games.
-![alt text](https://github.com/cristiangoncas/SimonSaysWearTest/blob/master/Screenshot_1551281968.png)
-![alt text](https://github.com/cristiangoncas/Portfolio/blob/master/Screenshot_20160729-143228.png)
+![alt text](https://github.com/cristiangoncas/Portfolio/blob/master/Screenshot_20160729-143228.png = 150)
 ![alt text](https://github.com/cristiangoncas/Portfolio/blob/master/Screenshot_20160729-143232.png)
 ![alt text](https://github.com/cristiangoncas/Portfolio/blob/master/Screenshot_20160729-143244.png)
 ![alt text](https://github.com/cristiangoncas/Portfolio/blob/master/Screenshot_20160729-143255.png)
