@@ -5,11 +5,12 @@ Here you can see my work some of what is, unfortunately, not in available on the
 Jungle Prize
 A gaming app where the users compete to end up with the highest score in each game to win prizes.
 The app uses Android SDK to display the UI and handle user interaction, and uses Unity for the games.
-<img src="/Screenshot_20160729-143228.png" title="screenshot 1" width="150" height="220" />
-<img src="/Screenshot_20160729-143232.png" title="screenshot 1" width="150" height="220" />
-<img src="/Screenshot_20160729-143244.png" title="screenshot 1" width="150" height="220" />
-<img src="/Screenshot_20160729-143255.png" title="screenshot 1" width="150" height="220" />
-<img src="/Screenshot_20160729-143332.png" title="screenshot 1" width="150" height="220" />
+
+<img src="/Screenshot_20160729-143228.png" title="screenshot 1" width="150" height="250" />
+<img src="/Screenshot_20160729-143232.png" title="screenshot 1" width="150" height="250" />
+<img src="/Screenshot_20160729-143244.png" title="screenshot 1" width="150" height="250" />
+<img src="/Screenshot_20160729-143255.png" title="screenshot 1" width="150" height="250" />
+<img src="/Screenshot_20160729-143332.png" title="screenshot 1" width="150" height="250" />
 
 Pinch
 A cashback app where the users get cashback money on every purchase they do through the app.
