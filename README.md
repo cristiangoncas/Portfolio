@@ -30,3 +30,4 @@ https://itunes.apple.com/us/app/featurepoints/id1409722949?mt=8
 Intelligram
 This app validates your pictures before you upload them to your social networks. It uses AI to provide you with feedback about how great they are.
 Android version still not in the market.
+
