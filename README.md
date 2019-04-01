@@ -11,6 +11,7 @@ The app uses Android SDK to display the UI and handle user interaction, and uses
 Pinch
 A cashback app where the users get cashback money on every purchase they do through the app.
 The app uses Android SDK and an API to provide the user with the proper interface to navigate through the available stores, the rewards and their account information.
+
 ![](pinch480.gif)
 
 Simon Says Wear
@@ -24,7 +25,9 @@ https://play.google.com/store/apps/details?id=com.cristiangoncas.expressentryana
 
 FeaturePoints
 App where you make money by trying apps and games, filling out surveys, buying stuff online and so on. You get rewarded with points that get exchanged for money.
+
 https://play.google.com/store/apps/details?id=com.tapgen.featurepoints&hl=en
+
 https://itunes.apple.com/us/app/featurepoints/id1409722949?mt=8
 
 Intelligram
