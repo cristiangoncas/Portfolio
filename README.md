@@ -12,9 +12,7 @@ Pinch
 A cashback app where the users get cashback money on every purchase they do through the app.
 The app uses Android SDK and an API to provide the user with the proper interface to navigate through the available stores, the rewards and their account information.
 
-[![Watch the video]()](pinch480.mov)
-
-![](pinch480.gif)
+![](pinch.gif)
 
 Simon Says Wear
 A simple game for Android wear using Android SDK UI elements. This was a test just for fun.
