@@ -14,7 +14,7 @@ Pinch
 A cashback app where the users get cashback money on every purchase they do through the app.
 The app uses Android SDK and an API to provide the user with the proper interface to navigate through the available stores, the rewards and their account information.
 
-<a href="https://drive.google.com/file/d/1SUQKkEZJO55gG5zdFLOX6L_nJ93c24Kv/view?usp=sharing"><img src="/pinch.gif"/></href>
+<a href="https://drive.google.com/file/d/1SUQKkEZJO55gG5zdFLOX6L_nJ93c24Kv/view?usp=sharing">Pinch</href>
 
 
 Simon Says Wear
