@@ -41,3 +41,4 @@ Intelligram
 This app validates your pictures before you upload them to your social networks. It uses AI to provide you with feedback about how great they are.
 Android version still not in the market.
 
+https://thephotochecker.com
