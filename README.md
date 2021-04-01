@@ -42,3 +42,9 @@ This app validates your pictures before you upload them to your social networks.
 Android version still not in the market.
 
 <a href="https://thephotochecker.com" target="_blank">thephotochecker.com</a>
+
+MallMapp
+
+An indoor navigation app to find your way on malls. Using company created sdk´s I helpd build the foundations of this app. 
+
+<a href="https://mallmapp.com/" target="_blank">mallmapp.com</a>
