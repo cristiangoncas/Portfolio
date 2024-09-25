@@ -1,12 +1,13 @@
 Hi there!
 
-Here you can see my work some of which is, unfortunately, not available on the market anymore.
+Here you can see my work some of it is, unfortunately, not available on the market anymore.
 </br>
-<img src="https://atalaprism.io/images/atala-prism-logo-suite.svg" title="logo" width="100" height="100" /> 
+<img src="https://github.com/hyperledger/identus/blob/main/resources/images/hyperledger-identus.svg" title="logo" width="100" height="100" /> 
 Year 2024
 A self-sovereign identity (SSI) platform and service suite for verifiable data and digital identity.
+Responsible of the KMP SDK
 
-<a href="https://atalaprism.io/" target="_blank">Atala Prism</a>
+<a href="https://github.com/hyperledger/identus" target="_blank">Identus</a>
 
 </br>
 <img src="https://presto.com/wp-content/uploads/2023/01/logo.png" title="logo" width="120" height="50" /> 
@@ -23,7 +24,7 @@ An indoor navigation app to find your way on malls. Using company-created sdk´s
 <a href="https://mapsted.com/indoor-positioning-technology" target="_blank">mallmapp.com</a>
 
 </br>
-<h3>EElytics</h3>
+<h3>EElytics (Discontinued)</h3>
 Year 2019
 This app analyzes Express Entry (Immigration process for PR) data and provides the user with detailed information about pool status, fluctuation of candidates, and push notifications for every draw of invitations.
 Everything is automated using node.js to process the data, upload it to Firebase, and send the notification.
