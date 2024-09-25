@@ -29,6 +29,8 @@ Year 2019
 This app analyzes Express Entry (Immigration process for PR) data and provides the user with detailed information about pool status, fluctuation of candidates, and push notifications for every draw of invitations.
 Everything is automated using node.js to process the data, upload it to Firebase, and send the notification.
 
+<img src="https://lh3.googleusercontent.com/jzECIDzL8h_9N8zvcSrjAf72WsNXAjbHwKwL9Al3hewLhG1o2R1ysEAO4lcDtkBTyw" width="150"/> <img src="https://lh3.googleusercontent.com/JAAgcZE1hq5h7tT12Ii8kVijEK9NXV4-KgST_hzwN4T57Ugtr8n6dZMgZ9MVIfQSMHfe" width="150"/> <img src="https://lh3.googleusercontent.com/tJh9vgsAMKg-dZldKxeZRY23kaqoPaVXCoaFuHBPl0ZRFxEPT803NhzT3K_VuAoSbyA" width="150"/>  <img src="https://lh3.googleusercontent.com/YKICHRiHIJ6VC4QP6JTGEMY9UUNcNWncXy3cyRz6rpIq2BWpn921X--B6vA5KTxMtrc" width="150"/>
+
 </br>
 <h3>Pinch (Discontinued)</h3>
 Year 2018
@@ -48,7 +50,7 @@ An app where you make money by trying apps and games, filling out surveys, buyin
 
 </br>
 <h3>Simon Says Wear</h3>
-Year 2018
+Year 2019
 A simple game for Android wear using Android SDK UI elements. This was a test just for fun.
 <a href="https://github.com/cristiangoncas/SimonSaysWearTest" target="_blank">SimonSaysWearTest</a>
 
